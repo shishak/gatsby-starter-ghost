@@ -4,3 +4,7 @@
 
 [template]
   incoming-hooks = ["Ghost"]
+  
+  [template.environment]
+  GHOST_API_URL = "Replace me with your Wordpress URL"
+  GHOST_CONTENT_API_KEY = "Replace API KEY"
