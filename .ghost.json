@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://papir.herokuapp.com",
-    "contentApiKey": "51e89f093b41df71466166e96a"
+    "apiUrl": "http://35.188.238.149",
+    "contentApiKey": "7164e16f5ae138710719fbdd5b"
   },
   "production": {
-    "apiUrl": "https://papir.herokuapp.com",
-    "contentApiKey": "51e89f093b41df71466166e96a"
+    "apiUrl": "http://35.188.238.149",
+    "contentApiKey": "7164e16f5ae138710719fbdd5b"
   }
 }
